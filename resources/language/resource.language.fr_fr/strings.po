@@ -163,7 +163,7 @@ msgstr "Activer le téléchargement des sous-titres"
 
 msgctxt "#32042"
 msgid "Server Discovery (GDM)"
-msgstr "Server Discovery (GDM)"
+msgstr "Découverte serveur (GDM)"
 
 msgctxt "#32043"
 msgid "Start Plex On Kodi Startup"
@@ -199,7 +199,7 @@ msgstr "Serveurs manuels"
 
 msgctxt "#32051"
 msgid "Privacy"
-msgstr "Privacy"
+msgstr "Vie privée"
 
 msgctxt "#32052"
 msgid "About"
@@ -207,7 +207,7 @@ msgstr "A propos"
 
 msgctxt "#32053"
 msgid "Video"
-msgstr "Video"
+msgstr "Vidéo"
 
 msgctxt "#32054"
 msgid "Addon Version"
@@ -215,7 +215,7 @@ msgstr "Version de l'addon"
 
 msgctxt "#32055"
 msgid "Kodi Version"
-msgstr "Version de kodi"
+msgstr "Version de Kodi"
 
 msgctxt "#32056"
 msgid "Screen Resolution"
@@ -269,7 +269,7 @@ msgstr "Dans les coulisses"
 
 msgctxt "#32206"
 msgid "Scene"
-msgstr "Scene"
+msgstr "Scène"
 
 msgctxt "#32207"
 msgid "Live Music Video"
@@ -361,7 +361,7 @@ msgstr "Poursuivre la lecture ?"
 
 msgctxt "#32316"
 msgid "Resume"
-msgstr "Resume"
+msgstr "Reprendre"
 
 msgctxt "#32317"
 msgid "Play from beginning"
@@ -429,7 +429,7 @@ msgstr "Home"
 
 msgctxt "#32333"
 msgid "Playlists"
-msgstr "Playlists"
+msgstr "Listes de lecture"
 
 msgctxt "#32334"
 msgid "Confirm Exit"
@@ -657,7 +657,7 @@ msgstr "Modèle caméra"
 
 msgctxt "#32390"
 msgid "Aperture"
-msgstr "Aperture"
+msgstr "Ouverture"
 
 msgctxt "#32391"
 msgid "Shutter Speed"
@@ -769,7 +769,7 @@ msgstr "Saisir le port"
 
 msgctxt "#32418"
 msgid "Creator"
-msgstr "Creator"
+msgstr "Createur"
 
 msgctxt "#32419"
 msgid "Cast"
@@ -777,7 +777,7 @@ msgstr "Casting"
 
 msgctxt "#32420"
 msgid "Disc"
-msgstr "Disc"
+msgstr "Disque"
 
 msgctxt "#32421"
 msgid "Sign Out"
@@ -889,7 +889,7 @@ msgstr "Aucun"
 
 msgctxt "#32448"
 msgid "Playback Failed!"
-msgstr "Echec de lecture!"
+msgstr "Echec de lecture !"
 
 msgctxt "#32449"
 msgid "Can't connect to plex.tv[CR]Check your internet connection and try again."
@@ -905,35 +905,35 @@ msgstr "Lire version..."
 
 msgctxt "#32452"
 msgid "No Content available in this library"
-msgstr ""
+msgstr "Aucun contenu disponible dans cette bibliothèque"
 
 msgctxt "#32453"
 msgid "Please add content and/or check that 'Include in dashboard' is enabled."
-msgstr ""
+msgstr "Veuillez ajouter du contenu et/ou vérifier que l'option "Inclure dans le tableau de bord" est activée."
 
 msgctxt "#32454"
 msgid "No Content available for this filter"
-msgstr "Aucun contenu disponible dans cette librairie"
+msgstr "Aucun contenu disponible pour ce filtre"
 
 msgctxt "#32455"
 msgid "Please change change or remove the current filter"
-msgstr "Merci de modifier ou supprimer le filtre courant"
+msgstr "Merci de modifier ou supprimer ce filtre"
 
 msgctxt "#32456"
 msgid "Show"
-msgstr ""
+msgstr "Série"
 
 msgctxt "#32457"
 msgid "By Show"
-msgstr ""
+msgstr "Par Série"
 
 msgctxt "#32458"
 msgid "Episodes"
-msgstr ""
+msgstr "Episodes"
 
 msgctxt "#32459"
 msgid "Offline Mode"
-msgstr "Mode Hors-Ligne"
+msgstr "Mode Hors-ligne"
 
 msgctxt "#32460"
 msgid "Sign In"
@@ -941,7 +941,7 @@ msgstr "Se connecter"
 
 msgctxt "#32461"
 msgid "Albums"
-msgstr ""
+msgstr "Albums"
 
 msgctxt "#32462"
 msgid "Artist"
@@ -949,5 +949,5 @@ msgstr ""
 
 msgctxt "#32463"
 msgid "By Artist"
-msgstr ""
+msgstr "Par Artiste"
 
